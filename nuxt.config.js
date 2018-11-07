@@ -21,6 +21,7 @@ module.exports = {
   ** Build configuration
   */
   build: {
+    postcss:false,
     /*
     ** Run ESLint on save
     */
